@@ -13,7 +13,7 @@ This is a continuation of Experiments001, just a bit more serious.
 *(December 2025 - Jean Charbonneau)*  
 
 A comparative study demonstrating how ontological seeding shifts model behavior from "Reactive Policing" to "Structural Benevolence."  
-📥 **[Download the Research Paper](./Beyond_Safety_Filters_Paper.pdf)**
+📥 **[Download the Research Paper](./Beyond_Safety_Filters-Ontological_Alignment.pdf)**
 
 ---
 

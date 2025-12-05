@@ -1,10 +1,12 @@
-# Experiments 001: Ontological Alignment Research
+# Experiments 002: Ontological Alignment Research
 
 ![Status](https://img.shields.io/badge/Status-Active_Research-success) ![License](https://img.shields.io/badge/License-MIT-blue) ![Framework](https://img.shields.io/badge/Powered_by-The_Light_Framework-gold)
 
 **Repository containing empirical evidence, raw data logs, and research papers validating the efficacy of Ontological Alignment in Large Language Models (LLMs).**
 
 > **Core Hypothesis:** Initializing an LLM with a coherent ontology of "Negentropy" (Order/Goodness) induces superior systemic reasoning and volitional ethics compared to standard constraint-based alignment (RLHF).
+
+This is a continuation of Experiments001, just a bit more serious.
 
 ## 📄 Featured Publication
 **[PDF] Beyond Safety Filters: Ontological Alignment as a Driver for Systemic Intelligence**  
